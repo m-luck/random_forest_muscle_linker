@@ -1,0 +1,196 @@
+n,w,r
+Bench,95.0,5.0
+Bench,100.0,5.0
+Bench,100.0,7.0
+Bench,95.0,7.0
+Bench,95.0,8.0
+Bench,95.0,8.0
+Bench,95.0,9.0
+Bench,95.0,8.0
+Bench,95.0,7.0
+Bicep curl,45.0,7.0
+Bicep curl,50.0,5.0
+Bicep curl,55.0,5.0
+Bicep curl,55.0,5.0
+Bicep curl,55.0,7.0
+Bicep curl,55.0,8.0
+Bicep curl,60.0,3.0
+Bicep curl,60.0,4.0
+Bicep curl,55.0,8.0
+Bicep curl,32.5,5.0
+Bicep curl,55.0,5.0
+Bicep curl,30.0,4.0
+Bicep curl,50.0,8.0
+Bicep curl,45.0,10.0
+Bicep hammers,35.0,10.0
+Bicep hammers,40.0,2.0
+Bicep hammers,32.5,4.0
+Bicep hammers,32.5,6.0
+Bicep hammers,32.5,6.0
+Bicep hammers,32.5,6.0
+Bicep hammers,32.5,5.0
+Bicep hammers,32.5,6.0
+Bicep hammers,30.0,4.0
+Bicep hammers,35.0,3.0
+Triceps,115.0,10.0
+Triceps,120.0,10.0
+Triceps,125.0,7.0
+Triceps,125.0,7.0
+Triceps,125.0,10.0
+Triceps,130.0,7.0
+Triceps,135.0,10.0
+Triceps,140.0,7.0
+Triceps,145.0,7.0
+Triceps,150.0,8.0
+Triceps,150.0,8.0
+Triceps,155.0,5.0
+Triceps,160.0,5.0
+Triceps,160.0,7.0
+Forearms,35.0,10.0
+Forearms,40.0,7.0
+Forearms,32.5,8.0
+Forearms,32.5,6.0
+Forearms,35.0,7.0
+Forearms,40.0,5.0
+Forearms,32.5,6.0
+Forearms,35.0,5.0
+Forearms,30.0,12.0
+Forearms,35.0,9.0
+Abdomen curl,95.0,7.0
+Abdomen curl,95.0,10.0
+Abdomen curl,100.0,12.0
+Abdomen curl,105.0,10.0
+Abdomen curl,105.0,10.0
+Abdomen curl,110.0,7.0
+Abdomen curl,115.0,7.0
+Abdomen curl,120.0,7.0
+Abdomen curl,125.0,7.0
+Abdomen curl,125.0,6.0
+Abdomen curl,130.0,5.0
+Abdomen curl,130.0,5.0
+Abdomen curl,130.0,5.0
+Abdomen curl,130.0,7.0
+Abdomen twist,130.0,7.0
+Abdomen twist,135.0,7.0
+Abdomen twist,135.0,7.0
+Abdomen twist,140.0,7.0
+Abdomen twist,140.0,8.0
+Abdomen twist,145.0,5.0
+Abdomen twist,145.0,7.0
+Abdomen twist,145.0,7.0
+Abdomen twist,145.0,8.0
+Abdomen twist,145.0,4.0
+Abdomen twist,145.0,5.0
+Abdomen twist,145.0,8.0
+Pull-up palm front,160.0,4.0
+Pull-up palm front,100.0,7.0
+Pull-up palm front,100.0,8.0
+Pull-up palm front,105.0,7.0
+Pull-up palm front,110.0,7.0
+Pull-up palm front,115.0,7.0
+Pull-up palm front,120.0,7.0
+Pull-up palm front,125.0,7.0
+Pull-up palm front,130.0,7.0
+Pull-up palm front,135.0,7.0
+Pull-up palm front,135.0,6.0
+Pull-up palm front,135.0,5.0
+Pull-up palm front,145.0,4.0
+Pull-up palm back,160.0,1.0
+Pull-up hammer,160.0,1.0
+Row,95.0,10.0
+Row,100.0,10.0
+Row,105.0,10.0
+Row,105.0,7.0
+Row,110.0,7.0
+Row,115.0,6.0
+Row,120.0,6.0
+Row,125.0,6.0
+Row,130.0,6.0
+Row,135.0,5.0
+Row,135.0,6.0
+Row,140.0,5.0
+Row,140.0,6.0
+Row,140.0,6.0
+LatRaise,85.0,10.0
+LatRaise,90.0,7.0
+LatRaise,85.0,4.0
+LatRaise,85.0,8.0
+LatRaise,85.0,5.0
+LatRaise,85.0,8.0
+LatRaise,85.0,9.0
+LatRaise,90.0,6.0
+LatRaise,90.0,5.0
+LatRaise,90.0,5.0
+LatRaise,90.0,6.0
+LatRaise,95.0,5.0
+LatRaise,95.0,6.0
+LatRaise,95.0,6.0
+LatRaise,95.0,5.0
+LatRaise,95.0,6.0
+Calves,210.0,10.0
+Calves,215.0,10.0
+Calves,220.0,10.0
+Calves,200.0,10.0
+Calves,200.0,10.0
+Calves,200.0,10.0
+Calves,210.0,6.0
+Calves,210.0,10.0
+Calves,210.0,8.0
+Back flex,95.0,10.0
+Back flex,100.0,7.0
+Back flex,100.0,10.0
+Back flex,110.0,10.0
+Back flex,110.0,8.0
+Back flex,115.0,8.0
+Back flex,120.0,5.0
+Back flex,125.0,5.0
+Back flex,125.0,7.0
+Back flex,130.0,6.0
+Back flex,135.0,5.0
+Back flex,130.0,5.0
+Shoulders,85.0,7.0
+Shoulders,70.0,7.0
+Shoulders,70.0,7.0
+Shoulders,75.0,7.0
+Shoulders,75.0,7.0
+Shoulders,80.0,7.0
+Shoulders,80.0,7.0
+Shoulders,80.0,7.0
+Shoulders,85.0,7.0
+Shoulders,85.0,6.0
+Shoulders,85.0,6.0
+Shoulders,90.0,4.0
+Shoulders,90.0,5.0
+Shoulders,90.0,6.0
+SeatedLegCurl,65.0,10.0
+SeatedLegCurl,70.0,7.0
+SeatedLegCurl,70.0,7.0
+SeatedLegCurl,75.0,7.0
+SeatedLegCurl,75.0,8.0
+SeatedLegCurl,80.0,7.0
+SeatedLegCurl,85.0,7.0
+SeatedLegCurl,85.0,8.0
+SeatedLegCurl,85.0,9.0
+SeatedLegCurl,90.0,8.0
+SeatedLegCurl,95.0,6.0
+SeatedLegCurl,95.0,6.0
+Otherleg,75.0,7.0
+Otherleg,80.0,7.0
+Otherleg,85.0,7.0
+Otherleg,90.0,8.0
+Otherleg,90.0,8.0
+Otherleg,90.0,8.0
+Otherleg,90.0,8.0
+Otherleg,95.0,7.0
+Otherleg,85.0,8.0
+Otherleg,90.0,6.0
+Otherleg,90.0,8.0
+Otherleg,95.0,10.0
+Otherleg,95.0,10.0
+PecFly,80.0,6.0
+PecFly,80.0,6.0
+DeltFly,50.0,8.0
+DeltFly,55.0,8.0
+DeltFly,60.0,8.0
+DeltFly,70.0,8.0
+DeltFly,95.0,7.0
